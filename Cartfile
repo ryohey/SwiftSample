@@ -1,0 +1,5 @@
+github "ReactiveX/RxSwift"
+github "mamaral/Neon"
+github "Mantle/Mantle"
+github "Alamofire/Alamofire"
+github "realm/realm-cocoa"

@@ -1,0 +1,5 @@
+github "Alamofire/Alamofire" "3.1.2"
+github "Mantle/Mantle" "2.0.5"
+github "mamaral/Neon" "v0.0.2"
+github "ReactiveX/RxSwift" "1.9.1"
+github "realm/realm-cocoa" "v0.96.2"
